@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.upper-section{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: 650px;
+    
+}
+.left-part img{
+    height: 200px;
+    width: auto;
+    margin-left: 100px;
+    size: 100px;
+    
+}
+.banner{
+    height: 730px;
+    max-width: 100%;
+}
+.link-login{
+    float:right;
+    text-decoration: none;
+    text-align: center;
+    height: 30px;
+    margin-top: 85px;
+    padding: 15px 15px;
+    margin-right: 20px;
+    color: black;
+}
+.link-login:hover{
+    color: orange;
+}
+.link-signup{
+    float:right;
+    text-decoration: none;
+    text-align: center;
+    height: 15px;
+    padding: 15px 15px;
+    margin-right: 20px;
+    background-color: black;
+    color: antiquewhite;
+    margin-top: 85px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+h1{
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+h3{
+    color: gray;
+    margin-top: 10px;
+    margin-left: 87px;
+}
+.enter{
+    margin-left: 87px;
+    margin-top: 50px;
+    width: 60%; 
+    height: 40px;
+    color: gray;
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 500;
+    position: relative;
+}
+
+.btn1{
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    margin-top: 30px;
+    
+    
+}
+.btn1:hover{
+    background-color: dimgray;
+}
+.find-food{
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    background-color: orange;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 87px;
+    color: gray;
+}
+.city-list{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    margin-left: 87px;
+    font-size: 18px;
+    word-spacing: 7px;
+    list-style: none;
+}
+.lists{
+    text-decoration: none;
+    color: black;
+    line-height:1.5;
+    
+}
+.lists:nth-child(even){
+    color: rgb(82, 72, 72);
+}
+.information{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #2b1e16;
+    font-weight: 100px;
+    font-size: 17px;
+    height: 400px;
+    
+}
+.mid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 200px;
+}
+h4{
+    font-weight: bolder;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+p{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    text-align: center;
+    margin-left: 10px;
+}
+.aa{
+    display: block;
+    margin-top: none;
+    padding-top: none;
+}
+.more-info{
+    display: grid;
+    grid-template-columns: 50% 25% 25%;
+}
+.right-phone{
+    height: 500px;
+    max-width: 100%;
+}
+.left-phone{
+    height: 500px;
+    max-width: 100%;
+}
+.left-info h2{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+    font-weight: bolder;
+    padding-bottom: none;
+}
+.left-info h5{
+    color: gray;
+    font-size: 20px;
+    margin-left: 150px;
+    line-height: 1.5;
+}
+.gp{
+    width: 200px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.as{
+    width: 200px;
+    text-align: center;
+    padding-left: 20px; 
+}
+.last{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    background-color: black;
+    height: auto;
+}
+h5{
+    color: gray;
+    padding-bottom: 25px;
+}
+.love{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-left: 80px;
+    padding-top: 30px;
+    line-height: 1.5;
+}
+.gpp{
+    width: 200px;
+    margin-top: 70px;
+    margin-left: 50px;
+    border-color: white;
+    border-radius: 10px;
+    border: 10px;
+    border-style:double;
+    outline:invert;
+    outline-color: white;
+}
+.ass{
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.company h4{
+    margin-top: 37px;
+    margin-left: 30px;
+    padding-bottom: 15px;
+}
+.flex{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+    font-size: 20px;
+    
+}
+
